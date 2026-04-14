@@ -1,0 +1,16 @@
+{
+    "generator": "readable",
+    "bundle": {
+        "modules_identifier": "__DIST",
+        "require_mode": {
+            "name": "path",
+            "use_luau_configuration": true,
+            "sources": {
+                "lib": "./lib",
+                "classes": "./src/classes",
+                "config": "./src/configurations",
+                "src": "./src"
+            }
+        }
+    }
+}
