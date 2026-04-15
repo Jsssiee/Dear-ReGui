@@ -1,3 +1,4 @@
+made by depso
 # Dear ReGui
 Dear ReGui is a retained dear ImGui library remake designed to be used on Roblox!
 This is perfect for beginners and performance.
@@ -65,11 +66,11 @@ Window:SliderFloat({Label = "float", Minimum = 0.0, Maximum = 1.0})
 		</td>
 	</tr>
 </table>
-
+if you dont see any picture, mb yall im lazy to change links for that 🙏
 ## Forking
 If you would like to create a fork of ReGui, please read the steps below
 
-<!-- ### Custom module
+### Custom module
 If you are going to edit the module and publish it, please create a copy of the [Prefabs](https://create.roblox.com/store/asset/71968920594655) 
 as the module will quickly become outdated and cause issues with the Prefabs. Currently you only need to download a copy of the `main.lua` file -->
 
@@ -77,4 +78,4 @@ as the module will quickly become outdated and cause issues with the Prefabs. Cu
 Using custom prefabs with ReGUI is very simple. 
 To use custom prefabs you can point the library's `Prefabs` to the custom prefabs in the `:Init` call. For externally using custom prefabs, replace `rbxassetid://{ReGui.PrefabsId}` with `rbxassetid://PrefabsID` and replace `PrefabsID` with the id of your custom prefabs that you have published on Roblox.
 
-ReGui prefabs asset: [Prefabs Gui - Roblox](https://create.roblox.com/store/asset/71968920594655)
+ReGui prefabs asset: [Prefabs Gui - Roblox](https://create.roblox.com/store/asset/71968920594655) [Currently unavailable]
